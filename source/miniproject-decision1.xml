@@ -21,13 +21,14 @@
             </li>
         </ol>
     </objectives>
-    
     <section>
+        <title>You need a title for your section to appear.</title>
+    </section>
     <worksheet xml:id="miniproj_decision1">
         <title>Decision Report 1: What's My Lane?</title>
         <p>Stuff.</p>
+        <p>Your worksheet should be contained in a chapter, not a section.</p>
     </worksheet>
-    </section>
 
 
 </chapter>

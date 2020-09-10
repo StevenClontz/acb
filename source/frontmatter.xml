@@ -25,7 +25,7 @@ along with MathBook XML.  If not, see <http://www.gnu.org/licenses/>.
 <!--                                               -->
 <!-- Copyright (C) 1997-2014  Thomas W. Judson     -->
 
-<frontmatter xml:id="index" xmlns:xi="http://www.w3.org/2001/XInclude">
+<frontmatter xml:id="frontmatter" xmlns:xi="http://www.w3.org/2001/XInclude">
 
     <titlepage>
 
@@ -36,26 +36,17 @@ along with MathBook XML.  If not, see <http://www.gnu.org/licenses/>.
             <email>msalomone@bridgew.edu</email>
         </author>
 
-        <!--<credit>
-            <title>Sage Exercises for Abstract Algebra</title>
-            <author>
-                <personname>Robert A. Beezer</personname>
-                <department>Department of Mathematics and Computer Science</department>
-                <institution>University of Puget Sound</institution>
-                <email>beezer@pugetsound.edu</email>
-            </author>
-        </credit>-->
-
         <date><today /></date>
 
     </titlepage>
-<!--         <video youtube="TyCsV7eO_BU" />
- -->
-    <!-- <section xml:id="section-syllabus">
+    <preface>
+        <video youtube="TyCsV7eO_BU" />
+    </preface>
+     <section xml:id="section-syllabus">
         <title>Syllabus Introduction</title>
         <p>Welcome to <term>MATH 144 Applied Calculus for Business</term>. A discussion of the syllabus and grading system from the first day of the semester is here:</p>
         <video youtube="pCXbGbII2sM"/>
 
-    </section> -->
+    </section>
 
 </frontmatter>
